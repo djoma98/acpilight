@@ -1,6 +1,6 @@
-THIS IS NOT MY PROJECT ALL CREDIT GOES TO WAVEXX
-I JUST MOVED IT OVER TO GITHUB
-ACPILIGHT CAN BE FOUND AT https://gitlab.com/wavexx/acpilight
+<b>THIS IS NOT MY PROJECT ALL CREDIT GOES TO <a href="https://gitlab.com/wavexx/">Yuri D'Elia</a> ,
+I JUST MOVED IT OVER TO GitHub!
+ACPILIGHT CAN BE FOUND AT</b> https://gitlab.com/wavexx/acpilight
 ========================================================
 acpilight: a backward-compatibile xbacklight replacement
 ========================================================
