@@ -1,3 +1,7 @@
+THIS IS NOT MY PROJECT ALL CREDIT GOES TO WAVEXX
+I JUST MOVED IT OVER TO GITHUB
+ACPILIGHT CAN BE FOUND AT https://gitlab.com/wavexx/acpilight
+========================================================
 acpilight: a backward-compatibile xbacklight replacement
 ========================================================
 
